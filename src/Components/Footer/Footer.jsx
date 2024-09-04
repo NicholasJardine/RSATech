@@ -3,7 +3,7 @@ import './Footer.css'
 const Footer = () => {
   return (
     <div className='footer'>
-      <p> c 2024 RSATech</p>
+      <p> © 2024 RSATech</p>
       <ul>
         <li>Terms of service</li>
         <li>Privacy policy</li>

@@ -46,3 +46,15 @@
     opacity: 1;
     padding-top: 0%;
 }
+
+
+
+@media(max-width: 650px){
+    .bootcamps{
+        flex-direction: column;
+    }
+    .bootcamp{
+        flex-basis: 100%;
+        margin: 30px;
+    }
+}
